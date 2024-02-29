@@ -1,2 +1,2 @@
-Project for sign recognition
+Sign language recognition using opencv
 
